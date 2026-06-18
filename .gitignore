@@ -1,0 +1,13 @@
+# Segredos e Chaves de API
+.env
+
+# Banco de Dados Local
+banco.db
+
+# Arquivos temporários e de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de cache do Jupyter Notebook
+.ipynb_checkpoints/
