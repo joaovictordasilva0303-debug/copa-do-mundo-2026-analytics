@@ -1,13 +1,22 @@
-# Segredos e Chaves de API
+# Variáveis de ambiente
 .env
 
-# Banco de Dados Local
+# Banco de dados SQLite
 banco.db
 
-# Arquivos temporários e de cache do Python
+# Cache Python
 __pycache__/
 *.pyc
 *.pyo
 
-# Arquivos de cache do Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
